@@ -1,4 +1,4 @@
-#include "FileManager.h"
+#include "Filemanager.h"
 
 #include <fstream>
 #include <iostream>
