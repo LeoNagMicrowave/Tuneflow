@@ -19,7 +19,6 @@ CMakeCache.txt
 *.tmp
 
 # User data
-data/config.txt
-data/songs.txt
-data/playlists.txt
-data/statistics.txt
+/data
+/music
+
