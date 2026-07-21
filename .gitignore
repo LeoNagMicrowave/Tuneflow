@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Build output
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# CMake (if used)
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Temporary files
+*.tmp
+
+# User data
+data/config.txt
+data/songs.txt
+data/playlists.txt
+data/statistics.txt
