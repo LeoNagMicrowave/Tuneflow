@@ -19,5 +19,6 @@ CMakeCache.txt
 *.tmp
 
 # User data
-/data/*.txt
-Music/*.mp3
+/data
+/Music
+
